@@ -1,1 +1,1 @@
-# rsschool-cv
+https://nfreckt.github.io/rsschool-cv/
