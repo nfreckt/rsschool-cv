@@ -1,0 +1,60 @@
+@import url('https://fonts.googleapis.com/css2?family=Encode+Sans+SC&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Encode+Sans+SC&family=Uchen&display=swap');
+
+.header {
+    font-family: 'Uchen', serif;
+    width: auto;
+    height: 250px;
+    background-color: #FFE04B;
+
+    text-align: center;
+    font-size: 2.5em;
+    letter-spacing: 0.1em;
+    color: black;
+    text-shadow: 1px 1px 0 #AFB8FF;
+}
+
+.selfinf:hover {
+    text-shadow: 1px 1px 0 #AFB8FF, 2px 2px 0 #AFB8FF, 3px 3px 0 #AFB8FF, 4px 4px 0 #AFB8FF, 5px 5px 0 #AFB8FF;
+}
+
+.image {
+    float: left;
+    margin-left: 50px;
+}
+
+h3 {
+    font-family: 'Encode Sans SC', sans-serif;
+
+    display: inline-block;
+    background-color: black;
+    color: white;
+}
+
+.main {
+    font-family: 'Uchen', serif;
+    font-size: 1.2em;
+    text-align: left;
+    margin-left: 50px;
+}
+
+footer {
+    font-size: 30px;
+    margin-left: 50px;
+}
+
+*{ 
+    margin:0; 
+    padding:0; 
+    } 
+
+body {
+    text-align:center;
+}
+
+.block {
+        width:960px; 
+        margin:0 auto; 
+        text-align:center; 
+}
+
